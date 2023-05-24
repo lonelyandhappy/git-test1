@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hell0 world three");
         System.out.println("hot");
         System.out.println("nice");
+        System.out.println("hot-file 1");
     }
 }
