@@ -6,6 +6,6 @@ public class GitTest {
         System.out.println("hot");
         System.out.println("nice");
         System.out.println("hot-file 1");
-        System.out.println("hot-file 2");
+        System.out.println("nothing");
     }
 }
